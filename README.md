@@ -1,2 +1,2 @@
 # typing_test_GM
-Typing Test Software
+Typing Test Software using Python for my college exam
